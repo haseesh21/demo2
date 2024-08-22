@@ -1,0 +1,18 @@
+.block{
+  border: 2px solid;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.board{
+  display:flex;
+  padding:30px;
+  align-items: center;
+}
+
